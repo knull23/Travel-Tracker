@@ -19,7 +19,7 @@ This Node.js application is a simple web-based tracker that allows users to keep
 2. **Install dependencies:**
 ```bash
    install npm init -y
-   install express ejs body-parser
+   install express ejs axios
    node index.js
 ```
 3. **Set up PostgreSQL:**
